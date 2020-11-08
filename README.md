@@ -1,15 +1,15 @@
-### Salut 👋
+### Hey 👋
 
-Je dev des truc de temps en temp ici quand je sais pas quoi faire
+Je dev des truc de temps en temp ici quand j'ai une idée (et du temps)
 
-![UwU's github stats](https://github-readme-stats.vercel.app/api?username=UwUDev&count_private=true&show_icons=true&title_color=922cc9&icon_color=922cc9&bg_color=ffffff)
+![JMimosa's github stats](https://github-readme-stats.vercel.app/api?username=JMimosaDev&count_private=true&show_icons=true&title_color=922cc9&icon_color=922cc9&bg_color=ffffff)
 
 vous pouvez voir mon nombres de commits (repos privés non unclus) ci-dessous aussi :)
 
 ![alt text](https://i.imgur.com/z8JcL9c.png)
 
 <!--
-**UwU0001/UwU0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JMimosaDev/JMimosaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
