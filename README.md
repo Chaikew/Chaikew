@@ -2,4 +2,4 @@
 
 I code stuff in Java
 
-![JMimosa's github stats](https://github-readme-stats.vercel.app/api?username=JMimosaDev&count_private=true&show_icons=true&title_color=922cc&icon_color=922cc9&bg_color=000000)
+![JMimosa's github stats](https://github-readme-stats.vercel.app/api?username=JMimosaDev&count_private=true&show_icons=true&title_color=34ba42&icon_color=34ba42&bg_color=ffffff)
