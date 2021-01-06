@@ -1,6 +1,7 @@
 ### Hey 👋
 
 I code stuff in Java
+
 -> [![JMimosa' Profile Views](https://komarev.com/ghpvc/?username=JMimosaDev&color=brightgreen)](https://github.com/JMimosaDev) <-
 
 
