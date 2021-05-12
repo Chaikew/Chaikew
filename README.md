@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I'm a partial time french developper, I can code things in Java, Python, HTML, JavaScript, CSS.
+I'm a partial time french developper, I can code things in Java, Python, HTML, JavaScript, CSS.<br>
 I'm learning JavaByteCode, Assembly and CoffeeScript.
 
 [![JMimosa' Profile Views](https://komarev.com/ghpvc/?username=JMRaichDev&color=brightgreen)](https://github.com/JMimosaDev)
