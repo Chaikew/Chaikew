@@ -3,7 +3,7 @@
 I'm a partial time french developper, I can code things in Java, Python, CoffeeScript, JavaScript (HTML, CSS).<br>
 I'm learning JavaByteCode, Assembly and C++.
 
-[![JMimosa' Profile Views](https://komarev.com/ghpvc/?username=JMRaichDev&color=brightgreen)](https://github.com/JMimosaDev)
+[![JMimosa' Profile Views](https://komarev.com/ghpvc/?username=JMRaichDev&color=brightgreen)](https://github.com/JMRaichDev)
 
 
 
