@@ -57,4 +57,11 @@ I'm a partial time french developper.
 
 ### Wakatime Stats
 <!--START_SECTION:waka-->
+```text
+Ruby         4 hrs 44 mins   ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+HTML         3 hrs 34 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.42 % 
+C++          2 hrs 35 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+CSS          2 hrs 14 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+JavaScript   2 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+```
 <!--END_SECTION:waka-->
