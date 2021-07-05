@@ -53,3 +53,5 @@ I'm a partial time french developper.
 
 ![JMimosa's github stats](https://github-readme-stats.vercel.app/api?username=JMRaichDev&count_private=true&show_icons=true&icon_color=fff&bg_color=55,e96443,904e95&title_color=fff&text_color=fff)
 ![JMimosa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JMRaichDev&show_icons=true&count_private=true&show_icons=true&bg_color=55,e96443,904e95&title_color=fff&icon_color=fff&text_color=fff)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
