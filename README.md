@@ -54,4 +54,11 @@ I'm a partial time french developper.
 ![JMimosa's github stats](https://github-readme-stats.vercel.app/api?username=JMRaichDev&count_private=true&show_icons=true&icon_color=fff&bg_color=55,e96443,904e95&title_color=fff&text_color=fff)
 ![JMimosa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JMRaichDev&show_icons=true&count_private=true&show_icons=true&bg_color=55,e96443,904e95&title_color=fff&icon_color=fff&text_color=fff)
 <!--START_SECTION:waka-->
+```text
+Ruby         4 hrs 44 mins   ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+HTML         3 hrs 34 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.42 % 
+C++          2 hrs 35 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+CSS          2 hrs 14 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+JavaScript   2 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+```
 <!--END_SECTION:waka-->
