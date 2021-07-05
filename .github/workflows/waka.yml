@@ -1,6 +1,8 @@
 name: Update README with Wakatime coding stats
 
 on:
+  push:
+    branches: [ master ]
   schedule:
     - cron: '00 7 * * *'
 
