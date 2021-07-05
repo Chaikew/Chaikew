@@ -12,9 +12,17 @@ jobs:
     name: README Coding stats updater   
     runs-on: ubuntu-latest
     steps:
-      - uses: tariksahni/coding-stats-wakatime@v1.0.0
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_MONTHLY: true
-          GITHUB_TOKEN: ${{ github.token }}
-          GITHUB_ACTION: ${{ github.action }}
+    - name: Waka - Readme
+      # You may pin to the exact commit or the version.
+      # uses: athul/waka-readme@1f2d0f1334ec066ef92b9eaf14242cd062bcd254
+      uses: athul/waka-readme@v0.1.5
+      with:
+        # GitHub access token with Repo scope
+        GH_TOKEN:
+          ${{ github.token }}
+        # Your Wakatime API Key
+        WAKATIME_API_KEY: 
+          ${{ secrets.WAKATIME_API_KEY }}
+        # Your GitHub repository
+        REPOSITORY:
+          ${{ github.repository }}
