@@ -51,17 +51,13 @@ I'm a partial time french developper.
       > <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" style="max-width:100%;">
       > <img src="https://img.shields.io/badge/-WEBStorm-181717?style=for-the-badge&logo=webStorm&logoColor=white" style="max-width:100%;">
 
+<br>
+
 ![JMimosa's github stats](https://github-readme-stats.vercel.app/api?username=JMRaichDev&count_private=true&show_icons=true&icon_color=fff&bg_color=55,e96443,904e95&title_color=fff&text_color=fff)
+<br>
 
 ![JMimosa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JMRaichDev&show_icons=true&count_private=true&show_icons=true&bg_color=55,e96443,904e95&title_color=fff&icon_color=fff&text_color=fff)
+<br>
 
 ### Wakatime Stats
-<!--START_SECTION:waka-->
-```text
-Ruby         4 hrs 44 mins   ███████░░░░░░░░░░░░░░░░░░   28.42 % 
-HTML         3 hrs 34 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.42 % 
-C++          2 hrs 35 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-CSS          2 hrs 14 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-JavaScript   2 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-```
-<!--END_SECTION:waka-->
+<img src="https://github.com/JMRaichDev/JMRaichDev/blob/main/images/stat.svg" alt="Wakatime Stats"/>
