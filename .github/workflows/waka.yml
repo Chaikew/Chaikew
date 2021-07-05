@@ -1,6 +1,7 @@
 name: Update README with Wakatime coding stats
 
 on:
+  workflow_dispatch:
   push:
     branches: [ master ]
   schedule:
