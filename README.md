@@ -1,6 +1,11 @@
-### Hey 👋
+### Hi 👋
 
-I'm a self-taught (novice) developer. I code things on my free time in various languages such as Java and Javascript ^^
+I'm a self-taught (novice) French developper who loves to do Research and Development on it's free time :grinning:.
+ I code things on my free time in various languages such as Java and Javascript ^^
+
+How to reach me :thinking:? 
+<br>
+You can either DM me on [Discord: JMRaich#0001](https://discord.com/)  or open an issue [here](https://github.com/JMRaichDev/JMRaichDev) !
 
 <br>
 
