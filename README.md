@@ -1,7 +1,7 @@
 ### Hi 👋
 
 I'm a self-taught (novice) French developper who loves to do Research and Development on it's free time :grinning:.
- I code things on my free time in various languages such as Java and Javascript ^^
+I code things in various languages such as Java and Javascript ^^
 
 How to reach me :thinking:? 
 <br>
