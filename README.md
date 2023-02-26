@@ -5,7 +5,7 @@ I code things in various languages such as Java and Javascript ^^
 
 How to reach me :thinking:? 
 <br>
-You can either DM me on [Discord: Chaikew#0001](https://discord.com/)  or open an issue [here](https://github.com/Chaikew/Chaikew) !
+You can either DM me on [Discord: Chaikew#6698](https://discord.com/)  or open an issue [here](https://github.com/Chaikew/Chaikew) !
 
 <br>
 
